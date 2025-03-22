@@ -1,0 +1,10 @@
+site,management,depth_avg,count_genera_avg,percent_normal_avg,percent_bleached_avg,percent_hard_avg_avg,perc_acropora
+Fukui,Bunaken NP Utility Zone,3,7,69.7,12.1,100,15.654952076677317
+Fukui,Bunaken NP Utility Zone,9.02,15.7,71.3,22.9,56.5,15.654952076677317
+Fukui Eena,Bunaken NP Utility Zone,9,13,36.9,13.8,66.5,0
+Lankayan Island,Sugud Islands Marine Conservation Area,8,5,39.1,60.9,58,0
+Likuan 3,Bunaken NP Utility Zone,10,14,89.3,4,73.5,6.122448979591836
+"San Ricardo, Panaon Island",Panaon Island Protected Seascape,10,1,84.2,7,50,NA
+Shang atoll,Bunaken NP Utility Zone,10,22,36.1,27.7,32.1,16.666666666666664
+Sta Cruz (dummy),Community-based Management zone,9,10,67.9,0,37,15.789473684210526
+West Bunaken,Bunaken NP Utility Zone,6.5,18,61.2,22.8,72.6,36.666666666666664
